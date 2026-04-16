@@ -9,7 +9,7 @@
 - Email sinh viên: `24022295@vnu.edu.com`
 
 ## Giới thiệu Bài toán 
-Trong thực tế, phần lớn dữ liệu doanh nghiệp không được gán nhãn. Việc áp dụng **Machine Learning không giám sát ** giúp khám phá các cấu trúc ẩn, nhóm các đối tượng có đặc tính tương đồng và hỗ trợ ra quyết định chiến lược. Dự án này tập trung nghiên cứu và triển khai các thuật toán phân cụm cơ bản, sau đó ứng dụng vào bài toán **Phân khúc khách hàng ** nhằm phân nhóm khách hàng dựa trên nhân khẩu học, hành vi mua sắm và mức độ tương tác.
+Trong thực tế, phần lớn dữ liệu doanh nghiệp không được gán nhãn. Việc áp dụng Machine Learning không giám sát giúp khám phá các cấu trúc ẩn, nhóm các đối tượng có đặc tính tương đồng và hỗ trợ ra quyết định chiến lược. Dự án này tập trung nghiên cứu và triển khai các thuật toán phân cụm cơ bản, sau đó ứng dụng vào bài toán **Phân khúc khách hàng ** nhằm phân nhóm khách hàng dựa trên nhân khẩu học, hành vi mua sắm và mức độ tương tác.
 
 ## Phương pháp thực hiện
 Dự án được chia thành 4 nội dung chính, tương ứng với 4 notebook:
